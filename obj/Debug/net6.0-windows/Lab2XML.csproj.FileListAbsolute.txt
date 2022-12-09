@@ -1,0 +1,36 @@
+D:\CSharp\Lab2XML\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.exe
+D:\CSharp\Lab2XML\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.deps.json
+D:\CSharp\Lab2XML\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.runtimeconfig.json
+D:\CSharp\Lab2XML\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.dll
+D:\CSharp\Lab2XML\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.pdb
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.csproj.AssemblyReference.cache
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.Form1.resources
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.csproj.GenerateResource.cache
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.AssemblyInfoInputs.cache
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.AssemblyInfo.cs
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.csproj.CoreCompileInputs.cache
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.dll
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\refint\Lab2XML.dll
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.pdb
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.genruntimeconfig.cache
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\ref\Lab2XML.dll
+D:\CSharp\Lab2XML\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.Properties.Resources.resources
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.exe
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.deps.json
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.runtimeconfig.json
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.dll
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\bin\Debug\net6.0-windows\Lab2XML.pdb
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.csproj.AssemblyReference.cache
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.Form1.resources
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.Properties.Resources.resources
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.csproj.GenerateResource.cache
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.AssemblyInfoInputs.cache
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.AssemblyInfo.cs
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.csproj.CoreCompileInputs.cache
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.dll
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\refint\Lab2XML.dll
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.pdb
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\Lab2XML.genruntimeconfig.cache
+C:\Users\глеб\Desktop\KNU FKNK\Lab2Mike\Lab2XML\obj\Debug\net6.0-windows\ref\Lab2XML.dll

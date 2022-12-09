@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<workgroup>
+	<group>
+		<name>Gabriel</name>
+		<department>HRT</department>
+		<branch>ART</branch>
+		<speciality>PM</speciality>
+		<begining>12:12</begining>
+		<ending>13:15</ending>
+		<type>meeting</type>
+	</group>
+	<group>
+		<name>Lora</name>
+		<department>NSB</department>
+		<branch>CIA</branch>
+		<speciality>QA</speciality>
+		<begining>09:24</begining>
+		<ending>18:15</ending>
+		<type>labling</type>
+	</group>
+	<group>
+		<name>Rick</name>
+		<department>Sanches</department>
+		<branch>DIR</branch>
+		<speciality>osfgooo</speciality>
+		<begining>09:24</begining>
+		<ending>18:15</ending>
+		<type>roll</type>
+	</group>
+</workgroup>
